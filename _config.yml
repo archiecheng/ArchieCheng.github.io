@@ -1,9 +1,9 @@
 # Site settings
 title: Archie's Blog
-SEOTitle: Archie's Blog
+SEOTitle: My World
 header-img: img/post-bg-desk.jpg
 email: 1804528105@qq.com
-description: "Mind and Hand"
+description: "God is with me"
 keyword: "Archie's Blog"
 url: "http://archiecheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
